@@ -43,7 +43,7 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /></a>
   <img width="12" />
-  <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" /></a>
+  <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  /></a>
   <img width="12" />
   <a href="https://www.linkedin.com/learning/certificates/bfd79d4fb61fecae3aff3f7ecb35f2eb7d1d38ea20f00e9bb4b3d49a88620e22?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /></a>
 </div>
