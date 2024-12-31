@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Singh, and I'm a Full Stack Software Engineer.</h2>
+<h2 align="center">Hi 👋! My name is Aditya Singh, and I'm a Full Stack Software Engineer.</h2>
 
 ###
 
