@@ -13,7 +13,7 @@ jobs:
       - name: Fetch LeetCode Stats
         uses: TriDiamond/leetcode-stats-box@latest
         with:
-          username: "<your-leetcode-username>"
+          username: "adityasinghz"
           theme: dark
           outputDir: "./"
 
