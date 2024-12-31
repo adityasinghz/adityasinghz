@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz" height="195" width="480"/>
-  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" height="195" width="480"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinghz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" width="480" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz" width="480"/>
+  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinghz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
   
 </div>
 
