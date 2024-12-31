@@ -1,11 +1,12 @@
-<h2 align="center">Hi 👋! My name is Aditya Singh</h2>
+<h2 align="center">Hi 👋! Welcome to my profile!</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinghz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz" />
+  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" height="195"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinghz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195"  alt="languages graph"  />
+  
 </div>
 
 ###
