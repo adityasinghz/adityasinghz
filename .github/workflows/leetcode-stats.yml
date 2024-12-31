@@ -1,0 +1,26 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch LeetCode Stats
+        uses: TriDiamond/leetcode-stats-box@latest
+        with:
+          username: "<your-leetcode-username>"
+          theme: dark
+          outputDir: "./"
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add .
+          git commit -m "Updated LeetCode stats"
+          git push
