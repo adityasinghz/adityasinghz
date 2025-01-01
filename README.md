@@ -4,10 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz"/>
-  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" weidth="200"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinghz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"/>
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasinghz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="195"/>
+  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" height="200" width="400"/></a>
   
 </div>
 
