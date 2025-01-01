@@ -34,7 +34,7 @@
 
 - 👷 <samp><b>Software Engineer @ EPAM Systems</b>
 - 👨‍🎓 <samp><b>B.Tech in Electronics and Telecommunication(2019-2023) from VIT, Pune</b>
-- 🧑🏽 <samp><b>Operations Coordinator of [TIF (The Investment Forum)](https://www.linkedin.com/company/the-investment-forum-vit-pune/) Club (October 2021 - 2023)</b>
+- 🧑🏽 <samp><b>Operations Coordinator of [TIF](https://www.linkedin.com/company/the-investment-forum-vit-pune/) Club (October 2021 - 2023)</b>
 - 🥇 <samp>Under 800 in Google Kickstart (2020) || 2 times under 500 in Google Kickstart (2021) || Solved 500+ problems on [Leetcode](https://leetcode.com/u/adityasinghz/)
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about Full Stack Development
@@ -106,14 +106,14 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
   
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
 <hr> 
   
@@ -178,4 +178,4 @@
 
 <br>  
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://github.com/adityasinghz/adityasinghz/blob/main/imgs/bottom_header.svg)
