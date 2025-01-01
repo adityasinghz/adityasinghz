@@ -55,27 +55,40 @@
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+<div align="left">
+  <a href="https://www.linkedin.com/learning/certificates/bcebde4090f25e03501b47185896ecb13c1836f30d4588dcb0ca21658dfa1f90?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /></a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/learning/certificates/338fcea9510065117e46487bd6e1197bf9920f276a9e4cb5b3ed7ae885939f2f?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="Express.js" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /></a>
+  <img width="12" />
+  <a href="https://www.hackerrank.com/certificates/9609cc5f0425"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /></a>
+  <img width="12" />
+  <a href="https://www.udemy.com/certificate/UC-7be94a82-375f-42f9-a084-476a1017cf30/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></a>
+  <img width="12" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /></a>
+  <img width="12" />
+  <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  /></a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/learning/certificates/bfd79d4fb61fecae3aff3f7ecb35f2eb7d1d38ea20f00e9bb4b3d49a88620e22?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /></a>
+</div>
   </span>
     
 ##
