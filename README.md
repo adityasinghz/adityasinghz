@@ -154,7 +154,7 @@
  </a>
  </p>
 
-### 🔖 LeetCode:
+### 💻 LeetCode:
   <div align="center">
      <a href="https://leetcode.com/adityasinghz/">
     <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" width="70%"/>
@@ -174,6 +174,11 @@
     <img src="https://img.shields.io/badge/Profile%20Completion-100%25-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode Profile Completion" />
   </a>
 </div>
+
+### 📊 GitHub Stats:
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz" width="70%"/></div>
+
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasinghz/adityasinghz/output/github-snake-dark.svg" />
