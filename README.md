@@ -50,9 +50,12 @@
   <br>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <b>Software Engineer @ EPAM Systems</b><br>
-- 🔬 <b>Published a research paper on <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">AI based real time deciphering of Sign language</a></b><br>
 - 👨🏾‍💻 <b>Full Stack Development Intern at Altizon Systems, Pune (Jan 2023 - June 2023)</b><br>
+- 🔬 <b>Published a research paper on <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">AI based real time deciphering of Sign language</a></b><br>
 - ☁ 30 Days of Google Cloud(Cloud Engnieering Track) (2021 and 2022)<br>
+- - 🔗 <a href="https://github.com/adityasinghz/adityasinghz/blob/main/AdityaSWE_2023grad.pdf" target="_blank">
+       Learn More About My Journey :)
+    </a>
 </div>
 
 ##
