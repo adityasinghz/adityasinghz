@@ -200,21 +200,8 @@ height="20%"
   
 <br>
 
-
- ### 🏆 GitHub Profile Trophy:
- <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img width=800 src="https://github-profile-trophy.vercel.app/?username=adityasinghz&column=8&theme=onedark&no-frame=true&no-bg=true"/>
- </a>
- </p>
-
 ### 💻 LeetCode:
-  <div align="center">
-     <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" width="70%"/>
-  </a>
-  </div>
-<div align="center">
+  <div align="center" width="100%">
   <a href="https://leetcode.com/adityasinghz/">
     <!-- Badge 1: Problem Solving -->
     <img src="https://img.shields.io/badge/Problems%20Solved-500+-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode Problems Solved" />
@@ -228,6 +215,21 @@ height="20%"
     <img src="https://img.shields.io/badge/Profile%20Completion-100%25-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode Profile Completion" />
   </a>
 </div>
+  <div align="center">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&theme=dark" alt="LeetCode Badges" width="100%"/>
+  </div>
+  <div align="center">
+     <a href="https://leetcode.com/adityasinghz/">
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" width="100%"/>
+  </a>
+  </div>
+
+ ### 🏆 GitHub Profile Trophy:
+ <p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=adityasinghz&column=8&theme=dark&no-frame=true&no-bg=true"/>
+ </a>
+ </p>
 
 ### 📊 GitHub Stats:
 
