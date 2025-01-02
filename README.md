@@ -1,7 +1,3 @@
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
-2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
-<!--END_SECTION:activity-->
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50" align="left">
 <h2>Hey Everyone! I'm <a href="https://github.com/adityasinghz">Aditya Singh!</a></h2>
 
@@ -237,6 +233,11 @@ height="20%"
 
 ### 📊 GitHub Stats:
 
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
+2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
+<!--END_SECTION:activity-->
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz" width="70%"/></div>
 
 <div align="center">
@@ -246,7 +247,6 @@ height="20%"
   <img alt="github-snake" src="https://raw.githubusercontent.com/adityasinghz/adityasinghz/output/github-snake.svg" />
 </picture>
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
