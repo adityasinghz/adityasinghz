@@ -216,12 +216,10 @@ height="20%"
   </a>
 </div>
   <div align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&theme=dark" alt="LeetCode Badges" width="100%"/>
-  </div>
-  <div align="center">
      <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" width="100%"/>
-  </a>
+       <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=submission&theme=dark" alt="LeetCode Badges" width="70%"/>
+       <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" width="70%"/>
+     </a>
   </div>
 
  ### 🏆 GitHub Profile Trophy:
