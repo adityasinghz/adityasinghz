@@ -49,6 +49,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## <p align="center"><h4 align="center"><samp> A Software Developer, An Open Source Contributor, & A Competitive Programmer </samp></h4></p>
 
@@ -74,18 +76,21 @@
   <div>
     <img
       align="right"
-      src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a"
-      width="20%"
-      style="margin: 0 0 10px 50px;"
+      src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+      width="25%"
     />
     <p>
-      - 👷 <b>Software Engineer @ EPAM Systems</b><br>
-      - 👨🏾‍💻 <b>Full Stack Development Intern at Altizon Systems, Pune (Jan 2023 - June 2023)</b><br>
+      - 👨🏾‍💻 <samp><b>Software Engineer @ EPAM Systems (April 2024 - Present)</b><br>
+      - 💻 Working as a MERN/MEAN (React/Angular. MongoDB, Node, Express, AWS) stack developer.<br>
+      <br>
+      - 👨🏾‍💻 <b>Full Stack Development Intern @Altizon Systems, Pune (Jan 2023 - June 2023)</b><br>
+      - 💻 Worked as a Full stack developer (React, MongoDB, Ruby on Rails) developer.<br>
+      - ⚙  Built end-to-end web solutions for industrial IoT platforms, integrating data pipelines for predictive maintenance and analytics.<br>
+      <br>
       - 🔬 <b>Published a research paper on 
         <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">
-          AI based real time deciphering of Sign language
-        </a>
-      </b><br>
+          AI-based real-time deciphering of Sign Language
+        </a></b><br>
       - ☁ 30 Days of Google Cloud (Cloud Engineering Track) (2021 and 2022)<br>
       - 🔗 <a href="https://github.com/adityasinghz/adityasinghz/blob/main/AdityaSWE_2023grad.pdf" target="_blank">
           Learn More About My Journey :)
@@ -93,6 +98,7 @@
     </p>
   </div>
 </div>
+
 
 
 
@@ -135,6 +141,12 @@
   </span>
     
 ##
+
+<img
+align="right"
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a"
+width="20%"
+/>
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
 
@@ -228,6 +240,10 @@
 </picture>
 </div>
 
-<br>  
-  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
 ![](https://github.com/adityasinghz/adityasinghz/blob/main/imgs/bottom_header.svg)
