@@ -173,7 +173,8 @@ height="20%"
 <img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
-<hr> 
+
+##
   
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
@@ -186,7 +187,7 @@ height="20%"
 </a>
   </span>
   
-<hr>
+##
   
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -194,8 +195,8 @@ height="20%"
 - [Multi-core Processor Architecture:](https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2)
 <!-- BLOG-POST-LIST:END -->
 
-  
-<hr>
+
+##
   
 <br>
 
@@ -221,6 +222,7 @@ height="20%"
   </a>
 </div>
 
+##
 
  ### 🏆 GitHub Profile Trophy:
  <p align="center">
@@ -228,6 +230,8 @@ height="20%"
    <img width=800 src="https://github-profile-trophy.vercel.app/?username=adityasinghz&column=8&theme=dark&no-frame=true&no-bg=true"/>
  </a>
  </p>
+
+##
 
 ### 📊 GitHub Stats:
 
