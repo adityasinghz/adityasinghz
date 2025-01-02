@@ -1,4 +1,6 @@
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
+2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
 <!--END_SECTION:activity-->
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50" align="left">
 <h2>Hey Everyone! I'm <a href="https://github.com/adityasinghz">Aditya Singh!</a></h2>
