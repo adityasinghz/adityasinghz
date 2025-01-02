@@ -188,7 +188,8 @@ height="20%"
   
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon....](https://medium.com/@adityasinghz)
+- [Ratio Analysis](https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2)
+- [Multi-core Processor Architecture:](https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2)
 <!-- BLOG-POST-LIST:END -->
 
   
