@@ -197,7 +197,7 @@ align="right"
 ### 💻 LeetCode:
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest&width=500" alt="LeetCode Stats Card" />
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest" width="45%" alt="LeetCode Stats Card" />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=submission&theme=dark" alt="LeetCode Badges" width="45%" />
   </a>
 </div>
