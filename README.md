@@ -94,8 +94,8 @@
       - 🔬 <b>Published a research paper on 
         <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">
           AI-based real-time deciphering of Sign Language
-        </a></b><br>
-      - ☁ 30 Days of Google Cloud (Cloud Engineering Track) (2021 and 2022)<br>
+        </a></b><br>9
+      - ☁ 30 Days of  <a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8">Google Cloud (Cloud Engineering Track)</a>(2021 and 2022)<br>
       - 🔗 <a href="https://github.com/adityasinghz/adityasinghz/blob/main/AdityaSWE_2023grad.pdf" target="_blank">
           Learn More About My Journey :)
         </a>
