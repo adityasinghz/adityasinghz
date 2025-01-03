@@ -1,25 +1,24 @@
+
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50" align="left">
 <h2>Hey Everyone! I'm <a href="https://github.com/adityasinghz">Aditya Singh!</a></h2>
 
-<br><br>
-<a href="https://www.linkedin.com/in/adityasinghz/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/adityasinghz">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/adityasinghz/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a>
-<a href="https://www.hackerrank.com/adityasinghz">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
-<a href="https://leetcode.com/u/adityasinghz/"  target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
-</a>
+<br>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/linkedin-original.svg" width="45px" height="auto" /></a></td>
+    <td align="center"><a href="https://github.com/adityasinghz"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/github.svg" width="45px" height="auto" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/instagram.svg" width="60px" height="auto" /></a></td>
+    <td align="center"><a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/google-cloud-1.svg" width="50px" height="auto" /></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/adityasinghz"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/hackerrank.svg" width="55px" height="auto" /></a></td>
+    <td align="center"><a href="https://leetcode.com/u/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/leetcode-logo.png" width="40px" height="auto" /></a></td>
+  </tr>
+</table>
+
+
+
+
+
 
 <br>
 <div align="center">
@@ -199,7 +198,7 @@ align="right"
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=submission&theme=dark" alt="LeetCode Badges" width="45%" />
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan" alt="LeetCode Stats Card" width="45%" />
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=activity" alt="LeetCode Stats Card" width="41%" />
   </a>
 </div>
   <div align="center" width="100%">
