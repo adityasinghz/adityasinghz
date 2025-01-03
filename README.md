@@ -195,8 +195,6 @@ height="20%"
 
 
 ##
-  
-<br>
 
 ### 💻 LeetCode:
 <div align="center">
