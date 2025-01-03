@@ -11,13 +11,9 @@
 <a href="https://www.instagram.com/adityasinghz/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="#">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
 <a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<br><br>
 <a href="https://www.hackerrank.com/adityasinghz">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
