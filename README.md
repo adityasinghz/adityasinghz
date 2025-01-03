@@ -231,12 +231,15 @@ height="20%"
 
 ##
 
-### 📊 GitHub Stats:
-
+### 🔀 Pull Requests
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
 2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
 <!--END_SECTION:activity-->
+##
+
+### 📊 GitHub Stats:
+
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="adityasinghz" width="70%"/></div>
 
