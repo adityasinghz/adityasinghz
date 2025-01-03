@@ -84,7 +84,7 @@
       - 💻 Working as a MERN/MEAN (React/Angular. MongoDB, Node, Express, AWS) stack developer.<br>
       <br>
       - 👨🏾‍💻 <b>Full Stack Development Intern @Altizon Systems, Pune (Jan 2023 - June 2023)</b><br>
-      - 💻 Worked as a Full stack developer (React, MongoDB, Ruby on Rails) developer.<br>
+      - 💻 Worked as a Ruby On Rails (React, MongoDB, Ruby on Rails) developer.<br>
       - ⚙  Built end-to-end web solutions for industrial IoT platforms, integrating data pipelines for predictive maintenance and analytics.<br>
       <br>
       - 🔬 <b>Published a research paper on 
