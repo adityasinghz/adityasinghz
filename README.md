@@ -222,6 +222,13 @@ height="20%"
 
 ##
 
+### 🔀 Pull Requests
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
+2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
+<!--END_SECTION:activity-->
+##
+
  ### 🏆 GitHub Profile Trophy:
  <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -231,12 +238,7 @@ height="20%"
 
 ##
 
-### 🔀 Pull Requests
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
-2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
-<!--END_SECTION:activity-->
-##
+
 
 ### 📊 GitHub Stats:
 
