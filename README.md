@@ -55,7 +55,7 @@
 ## <p align="center"><h4 align="center"><samp> A Software Developer, An Open Source Contributor, & A Competitive Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://github.com/adityasinghz/adityasinghz/blob/main/terminal.gif" width="40%"/>
   <br>
 
 - 👷 <samp><b>Software Engineer @ EPAM Systems</b>
@@ -187,7 +187,7 @@
 
 <img 
 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" 
-width="20%"
+width="19%"
 align="right"
 />
 ### ✍️ Blog posts
@@ -226,7 +226,7 @@ align="right"
 <img
 align="right"
 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a"
-width="16%"
+width="15.5%"
 />
 
 ### 🔀 Pull Requests
