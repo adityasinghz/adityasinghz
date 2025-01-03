@@ -84,7 +84,7 @@
       <br>
       - 👨🏾‍💻 <b>Software Engineer @Altizon Systems, Pune (Jan 2023 - Oct 2023)</b><br>
       - 💻 Worked as a Ruby On Rails (React, MongoDB, Ruby on Rails) developer.<br>
-      - ⚙  Built end-to-end web solutions for industrial IoT platforms, integrating data pipelines for predictive maintenance and analytics.<br>
+      - ⚙  Built end-to-end web solutions for industrial IoT platforms, built frontend and backend for predictive maintenance and analytics.<br>
       <br>
       - 🔬 <b>Published a research paper on 
         <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">
