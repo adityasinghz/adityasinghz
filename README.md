@@ -83,7 +83,11 @@
       - 👨🏾‍💻 <samp><b>Software Engineer @ EPAM Systems (April 2024 - Present)</b><br>
       - 💻 Working as a MERN/MEAN (React/Angular. MongoDB, Node, Express, AWS) stack developer.<br>
       <br>
-      - 👨🏾‍💻 <b>Full Stack Development Intern @Altizon Systems, Pune (Jan 2023 - June 2023)</b><br>
+      - 👨🏾‍💻 <b>Software Engineer @QASolve.ai, Remote (Nov 2023 - Mar 2023)</b><br>
+      - 💻 Worked as a backend (NodeJS) developer.<br>
+      - ⚙  Developed web crawling solutions using Puppeteer (Node.js library) and WebAPIs (TreeWalker API) to analyze UI components, improving the efficiency of the data collection process.<br>
+      <br>
+      - 👨🏾‍💻 <b>Software Engineer @Altizon Systems, Pune (Jan 2023 - Oct 2023)</b><br>
       - 💻 Worked as a Ruby On Rails (React, MongoDB, Ruby on Rails) developer.<br>
       - ⚙  Built end-to-end web solutions for industrial IoT platforms, integrating data pipelines for predictive maintenance and analytics.<br>
       <br>
