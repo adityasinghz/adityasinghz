@@ -59,12 +59,12 @@
   <br>
 
 - 👷 <samp><b>Software Engineer @ EPAM Systems</b>
-- 👨‍🎓 <samp><b>B.Tech in Electronics and Telecommunication(2019-2023) from VIT, Pune</b>
-- 🧑🏽 <samp><b>Operations Coordinator at [TIF](https://www.linkedin.com/company/the-investment-forum-vit-pune/) Club (October 2021 - 2023)</b>
-- 🥇 <samp>Under 1000 in Google Kickstart (2020) || 2 times under 800 in Google Kickstart (2021) || Solved 500+ problems on [Leetcode](https://leetcode.com/u/adityasinghz/)
+- 👨‍🎓 <samp><b>B.Tech in Electronics and Telecommunication(2019-2023) from VIT, Pune</b>.
+- 🧑🏽 <samp><b>Operations Coordinator at [TIF](https://www.linkedin.com/company/the-investment-forum-vit-pune/) Club (October 2021 - 2023)</b>.
+- 🥇 <samp>Under 1000 in Google Kickstart (2020) || 2 times under 800 in Google Kickstart (2021) || Solved 500+ problems on [Leetcode](https://leetcode.com/u/adityasinghz/).
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about Full Stack Development
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+- 💬 <samp>Ask me about Full Stack Development.
+- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming.
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 - ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
 </div>
@@ -93,8 +93,8 @@
       <br>
       - 🔬 <b>Published a research paper on 
         <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">
-          AI-based real-time deciphering of Sign Language
-        </a></b><br>9
+          Artificial Intelligence based real time deciphering of British sign language
+        </a></b><br>
       - ☁ 30 Days of  <a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8">Google Cloud (Cloud Engineering Track)</a>(2021 and 2022)<br>
       - 🔗 <a href="https://github.com/adityasinghz/adityasinghz/blob/main/AdityaSWE_2023grad.pdf" target="_blank">
           Learn More About My Journey :)
