@@ -44,8 +44,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## <p align="center"><h4 align="center"><samp> A Software Developer, An Open Source Contributor, & A Competitive Programmer </samp></h4></p>
 
@@ -261,3 +259,5 @@ width="15.5%"
 </div>
 
 ![](https://github.com/adityasinghz/adityasinghz/blob/main/imgs/bottom_header.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
