@@ -224,7 +224,7 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
+1. 💪 Opened PR [#38](https://github.com/Zhukovets/angular-fundamentals-template/pull/38) in [Zhukovets/angular-fundamentals-template](https://github.com/Zhukovets/angular-fundamentals-template)
 2. 💪 Opened PR [#44843](https://github.com/mui/material-ui/pull/44843) in [mui/material-ui](https://github.com/mui/material-ui)
 <!--END_SECTION:activity-->
 ##
