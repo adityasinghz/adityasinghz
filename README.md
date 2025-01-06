@@ -91,7 +91,7 @@
         </a></b><br>
       - ☁ 30 Days of  <a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8">Google Cloud (Cloud Engineering Track)</a>(2021 and 2022)<br>
       - 🔗 <a href="https://github.com/adityasinghz/adityasinghz/blob/main/AdityaSWE_2023grad.pdf" target="_blank">
-          Learn More About My Journey
+          Learn More About My Journey (Resume)
         </a>:)
     </p>
   </div>
