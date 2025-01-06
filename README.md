@@ -55,7 +55,7 @@
 - 👨‍🎓 <samp><b>B.Tech in Electronics and Telecommunication(2019-2023) from VIT, Pune</b>.
 - 🧑🏽 <samp><b>Operations Coordinator at [TIF](https://www.linkedin.com/company/the-investment-forum-vit-pune/) Club (October 2021 - 2023)</b>.
 - 🥇 <samp>Under 1000 in Google Kickstart (2020) || 2 times under 800 in Google Kickstart (2021) || Solved 500+ problems on [Leetcode](https://leetcode.com/u/adityasinghz/).
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
+- 💼 <samp>I’m looking for **Full-Time** Opportunity/role.
 - 💬 <samp>Ask me about Full Stack Development.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming.
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
