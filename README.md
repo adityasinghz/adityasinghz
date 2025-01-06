@@ -45,7 +45,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-## <p align="center"><h4 align="center"><samp> A Software Developer, An Open Source Contributor, & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A Software Developer, An Open Source Contributor & A Competitive Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/adityasinghz/adityasinghz/blob/main/terminal.gif" width="40%"/>
