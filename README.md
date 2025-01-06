@@ -7,11 +7,11 @@
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/linkedin-original.svg" width="45px" height="auto" /></a></td>
-    <td align="center"><a href="https://linktr.ee/adityasinghz"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/icons8-certificate-48.png" width="45px" height="auto" /></a></td>
     <td align="center"><a href="https://www.instagram.com/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/instagram.svg" width="60px" height="auto" /></a></td>
     <td align="center"><a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/google-cloud-1.svg" width="50px" height="auto" /></a></td>
     <td align="center"><a href="https://www.hackerrank.com/adityasinghz"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/hackerrank.svg" width="55px" height="auto" /></a></td>
     <td align="center"><a href="https://leetcode.com/u/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/leetcode-logo.png" width="40px" height="auto" /></a></td>
+    <td align="center"><a href="https://linktr.ee/adityasinghz"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/icons8-certificate-48.png" width="45px" height="auto" /></a></td>
   </tr>
 </table>
 
