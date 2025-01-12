@@ -82,12 +82,12 @@
       - ⚙  Developed web crawling solutions using Puppeteer (Node.js library) and WebAPIs (TreeWalker API) to analyze UI components, improving the efficiency of the data collection process.<br>
       <br>
       - 👨🏾‍💻 <b>Software Engineer @Altizon Systems, Pune (Jan 2023 - Oct 2023)</b><br>
-      - 💻 Worked as a Ruby On Rails (React, MongoDB, Ruby on Rails) developer.<br>
+      - 💻 Worked as a developer of Ruby On Rails (React, MongoDB, Ruby on Rails).<br>
       - ⚙  Built end-to-end web solutions for industrial IoT platforms, built frontend and backend for predictive maintenance and analytics.<br>
       <br>
       - 🔬 <b>Published a research paper on 
         <a href="https://pubs.aip.org/aip/acp/article-abstract/2851/1/040004/2921927/Artificial-intelligence-based-real-time?redirectedFrom=fulltex" target="_blank">
-          Artificial Intelligence based real time deciphering of British sign language
+          Artificial Intelligence based real-time deciphering of British sign language
         </a></b><br>
       - ☁ 30 Days of  <a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8">Google Cloud (Cloud Engineering Track)</a>(2021 and 2022)<br>
       - 🔗 <a href="https://github.com/adityasinghz/adityasinghz/blob/main/AdityaSWE_2023grad.pdf" target="_blank">
@@ -132,7 +132,7 @@
   <img width="12" />
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /></a>
   <img width="12" />
-  <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  /></a>
+  <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazon web services logo"  /></a>
   <img width="12" />
   <a href="https://www.linkedin.com/learning/certificates/bfd79d4fb61fecae3aff3f7ecb35f2eb7d1d38ea20f00e9bb4b3d49a88620e22?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /></a>
 </div>
@@ -196,8 +196,9 @@ align="right"
 ### 💻 LeetCode:
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest" width="45%" alt="LeetCode Stats Card" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=annual&theme=dark" alt="LeetCode Badges" width="45%" />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=submission&theme=dark" alt="LeetCode Badges" width="45%" />
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest" width="45%" alt="LeetCode Stats Card" />
   </a>
 </div>
   <div align="center" width="100%">
