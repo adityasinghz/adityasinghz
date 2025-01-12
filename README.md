@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50" align="left">
 <h2>Hey Everyone! I'm <a href="https://github.com/adityasinghz">Aditya Singh</a>!</h2>
 
@@ -196,25 +195,16 @@ align="right"
 ### 💻 LeetCode:
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest&width=1000" alt="LeetCode Stats Card" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=annual&theme=dark" alt="LeetCode Badges" width="45%" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=submission&theme=dark" alt="LeetCode Badges" width="45%" />
-  </a>
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest&width=1000" alt="LeetCode Stats Card"/>
+
+    
+    
+  <!---<img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=submission&theme=dark" alt="LeetCode Badges" width="45%" />!-->
+  <!---<img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasinghz&&filter=annual&theme=dark" alt="LeetCode Badges" width="45%" />!-->
+    
+ </a>
 </div>
-  <div align="center" width="100%">
-  <a href="https://leetcode.com/adityasinghz/">
-    <!-- Badge 1: Problem Solving -->
-    <img src="https://img.shields.io/badge/Problems%20Solved-500+-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode Problems Solved" />
-  </a>
-  <a href="https://leetcode.com/adityasinghz/">
-    <!-- Badge 2: Contest Rating -->
-    <img src="https://img.shields.io/badge/Contest%20Rating-1400%2B-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Contest Rating" />
-  </a>
-  <a href="https://leetcode.com/adityasinghz/">
-    <!-- Badge 3: Profile Completion -->
-    <img src="https://img.shields.io/badge/Profile%20Completion-100%25-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode Profile Completion" />
-  </a>
-</div>
+
 
 ##
 
