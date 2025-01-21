@@ -217,8 +217,8 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/Zhukovets/angular-fundamentals-template/pull/39) in [Zhukovets/angular-fundamentals-template](https://github.com/Zhukovets/angular-fundamentals-template)
-2. ❗ Opened issue [#217](https://github.com/LeetSync/LeetSync/issues/217) in [LeetSync/LeetSync](https://github.com/LeetSync/LeetSync)
+1. 💪 Opened PR [#1](https://github.com/adityasinghz/investment-calculator/pull/1) in [adityasinghz/investment-calculator](https://github.com/adityasinghz/investment-calculator)
+2. 💪 Opened PR [#39](https://github.com/Zhukovets/angular-fundamentals-template/pull/39) in [Zhukovets/angular-fundamentals-template](https://github.com/Zhukovets/angular-fundamentals-template)
 <!--END_SECTION:activity-->
 ##
 
