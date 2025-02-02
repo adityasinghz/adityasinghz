@@ -57,7 +57,7 @@
 - 👨 <samp><b>Facilitator at Google Cloud Program 2021.</b>
 - 🥇 <samp>Under 1000 in Google Kickstart (2020) || 2 times under 800 in Google Kickstart (2021) || Solved 500+ problems on [Leetcode](https://leetcode.com/u/adityasinghz/).
 - 💼 <samp> I have been a Software Engineer since 2023.
-- 💬 <samp>Ask me about Technologies.
+- 💬 <samp>Open for guidance🪐.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming.
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 - ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
