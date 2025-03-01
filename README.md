@@ -172,8 +172,8 @@
 <a href="https://github.com/adityasinghz/Artificial-Intelligence-based-Real-Time-Deciphering-of-British-Sign-Language">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghz&repo=Artificial-Intelligence-based-Real-Time-Deciphering-of-British-Sign-Language" />
 </a>
-<a href="https://github.com/adityasinghz/Review-Analysis-with-BERT-Neural-Network-and-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghz&repo=Review-Analysis-with-BERT-Neural-Network-and-Python" />
+<a href="https://github.com/adityasinghz/gym-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghz&repo=gym-management" />
 </a>
   </span>
   
