@@ -196,7 +196,7 @@ align="right"
 ### 💻 LeetCode:
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=contest&width=1000" alt="LeetCode Stats Card"/>
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&width=600&ext=heatmap" alt="LeetCode Stats Card"/>
 
     
     
