@@ -222,7 +222,7 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/adityasinghz/investment-calculator/pull/1) in [adityasinghz/investment-calculator](https://github.com/adityasinghz/investment-calculator)
+1. 💪 Opened PR [#6](undefined) in [CuriosityLeonardo/HackerrankCertifications](https://github.com/CuriosityLeonardo/HackerrankCertifications)
 2. 💪 Opened PR [#39](https://github.com/Zhukovets/angular-fundamentals-template/pull/39) in [Zhukovets/angular-fundamentals-template](https://github.com/Zhukovets/angular-fundamentals-template)
 <!--END_SECTION:activity-->
 ##
