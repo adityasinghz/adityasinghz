@@ -222,7 +222,7 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1](undefined) in [Nehakunta/fav-song](https://github.com/Nehakunta/fav-song)
+1. 💪 Opened PR [#5472](undefined) in [colinhacks/zod](https://github.com/colinhacks/zod)
 2. ❌ Closed PR [#1](undefined) in [Nehakunta/fav-song](https://github.com/Nehakunta/fav-song)
 <!--END_SECTION:activity-->
 ##
