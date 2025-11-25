@@ -222,8 +222,8 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#625](undefined) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
-2. 💪 Opened PR [#623](undefined) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+1. 🗣 Commented on [#625](https://github.com/NVIDIA/cuopt/pull/625#issuecomment-3574972375) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+2. 💪 Opened PR [#625](undefined) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
 <!--END_SECTION:activity-->
 ##
 
