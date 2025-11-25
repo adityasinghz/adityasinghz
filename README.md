@@ -75,7 +75,7 @@
     />
     <p>
       - 👨🏾‍💻 <samp><b>Software Engineer @ EPAM Systems (April 2024 - Present)</b><br>
-      - 💻 Working as a MERN/MEAN (React/Angular. MongoDB, Node, Express, AWS) stack developer.<br>
+      - 💻 Working as a MERN/MEAN (C++, Cuda, React/Angular. MongoDB, Node, Express, AWS) stack developer.<br>
       <br>
       - 👨🏾‍💻 <b>Software Engineer @QASolve.ai, Remote (Nov 2023 - Mar 2023)</b><br>
       - 💻 Worked as a backend (NodeJS) developer.<br>
