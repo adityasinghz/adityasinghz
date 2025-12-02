@@ -222,8 +222,8 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/NVIDIA/cuopt/pull/623#issuecomment-3580906784) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
-2. 🗣 Commented on [#625](https://github.com/NVIDIA/cuopt/pull/625#issuecomment-3574972375) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+1. ❌ Merged PR [#5473](undefined) in [colinhacks/zod](https://github.com/colinhacks/zod)
+2. 🗣 Commented on [#623](https://github.com/NVIDIA/cuopt/pull/623#issuecomment-3580906784) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
 <!--END_SECTION:activity-->
 ##
 
