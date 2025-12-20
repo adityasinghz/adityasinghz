@@ -222,8 +222,8 @@ width="15.5%"
 
 ### 🔀 Pull Requests
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com/microsoft/PowerBI-visuals-WordCloud/issues/241#issuecomment-3620373598) in [microsoft/PowerBI-visuals-WordCloud](https://github.com/microsoft/PowerBI-visuals-WordCloud)
-2. 💪 Opened PR [#301](undefined) in [microsoft/PowerBI-visuals-WordCloud](https://github.com/microsoft/PowerBI-visuals-WordCloud)
+1. 🗣 Commented on [#623](https://github.com/NVIDIA/cuopt/pull/623#issuecomment-3677801880) in [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+2. 🗣 Commented on [#241](https://github.com/microsoft/PowerBI-visuals-WordCloud/issues/241#issuecomment-3620373598) in [microsoft/PowerBI-visuals-WordCloud](https://github.com/microsoft/PowerBI-visuals-WordCloud)
 <!--END_SECTION:activity-->
 ##
 
