@@ -227,14 +227,14 @@ width="15.5%"
 <!--END_SECTION:activity-->
 ##
 
- ### 🏆 GitHub Profile Trophies
+ <!-- ### 🏆 GitHub Profile Trophies
  <p align="center">
    
    [![trophy](https://github-profile-trophy.vercel.app/?username=adityasinghz&theme=onedark)](https://github.com/adityasinghz/github-profile-trophy)
 
  </p>
 
-##
+## -->
 
 
 <div align="center">
