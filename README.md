@@ -193,7 +193,7 @@ align="right"
 
 ##
 
-### 💻 GitHub & 📊 LeetCode Stats:
+### 📊 LeetCode Stats:
 <table align="center">
   <tr>
     <!-- <td>
