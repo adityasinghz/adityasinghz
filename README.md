@@ -166,7 +166,7 @@
 
 ##
   
-<h3><b><samp>Check out my Repositories</samp></b></h3>
+<!-- <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
 <a href="https://github.com/adityasinghz/Artificial-Intelligence-based-Real-Time-Deciphering-of-British-Sign-Language">
@@ -177,7 +177,7 @@
 </a>
   </span>
   
-##
+## -->
 
 <img 
 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" 
