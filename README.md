@@ -196,9 +196,9 @@ align="right"
 ### 💻 GitHub & 📊 LeetCode Stats:
 <table align="center">
   <tr>
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api?username=adityasinghz&show_icons=true&theme=gotham" alt="GitHub Stats" width="500"/>
-    </td>
+    </td> -->
     <td>
       <a href="https://leetcode.com/adityasinghz/">
         <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="500"/>
