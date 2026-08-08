@@ -77,7 +77,7 @@
       - 👨🏾‍💻 <samp><b>Software Engineer @ EPAM Systems (April 2024 - Present)</b><br>
       - 💻 Working as a MERN/MEAN (C++, Cuda, React/Angular. MongoDB, Node, Express, AWS) stack developer.<br>
       <br>
-      - 👨🏾‍💻 <b>Software Engineer @QASolve.ai, Remote (Nov 2023 - Mar 2023)</b><br>
+      - 👨🏾‍💻 <b>Software Engineer @QASolve.ai, Remote (Nov 2023 - Mar 2024)</b><br>
       - 💻 Worked as a backend (NodeJS) developer.<br>
       - ⚙  Developed web crawling solutions using Puppeteer (Node.js library) and WebAPIs (TreeWalker API) to analyze UI components, improving the efficiency of the data collection process.<br>
       <br>
