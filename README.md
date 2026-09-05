@@ -155,31 +155,25 @@
 
 ---
 
-<h3 align="center">✍️ Blog Posts</h3>
+<img align="right" width="120" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" />
 
-<p align="center">
-  <a href="https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2">Ratio Analysis</a>
-  &nbsp;·&nbsp;
-  <a href="https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2">Multi-core Processor Architecture</a>
-</p>
+### ✍️ Blog Posts
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="120" />
-</p>
+- [Ratio Analysis](https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2)
+- [Multi-core Processor Architecture](https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2)
 
 <br>
+<br>
 
-<h3 align="center">🔀 Recent Pull Requests</h3>
+<img align="right" width="120" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
 
-<p align="center">
-  🎉 Merged <a href="https://github.com/NVIDIA/cuopt/pull/623">#623</a> · <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a>
-  <br><br>
-  🗣 Commented on <a href="https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779">#730</a> · <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a>
-</p>
+### 🔀 Recent Pull Requests
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="120" />
-</p>
+- 🎉 Merged [#623](https://github.com/NVIDIA/cuopt/pull/623) · [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+- 🗣 Commented on [#730](https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779) · [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+
+<br>
+<br>
 
 ---
 
