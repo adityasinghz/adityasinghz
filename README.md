@@ -155,43 +155,26 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="middle" width="50%">
-      <h3>✍️ Blog Posts</h3>
-      <ul>
-        <li><a href="https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2">Ratio Analysis</a></li>
-        <li><a href="https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2">Multi-core Processor Architecture</a></li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="50%">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="320" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" />
 
-<br>
+### ✍️ Blog Posts
+
+- [Ratio Analysis](https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2)
+- [Multi-core Processor Architecture](https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2)
+
+<br clear="all"/>
 
 ---
 
-<br>
+<img align="right" width="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
 
-<table>
-  <tr>
-    <td valign="middle" width="50%">
-      <h3>🔀 Recent Pull Requests</h3>
-      <ul>
-        <li>🎉 Merged <a href="https://github.com/NVIDIA/cuopt/pull/623">#623</a> · <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a></li>
-        <li>🗣 Commented on <a href="https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779">#730</a> · <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a></li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="50%">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="320" />
-    </td>
-  </tr>
-</table>
+### 🔀 Recent Pull Requests
 
-<br>
+- 🎉 Merged [#623](https://github.com/NVIDIA/cuopt/pull/623) · [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+- 🗣 Commented on [#730](https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779) · [NVIDIA/cuopt](https://github.com/NVIDIA/cuopt)
+
+<br clear="all"/>
+
 
 ---
 
