@@ -188,6 +188,20 @@
 
 ---
 
+### 📊 Codeforces Stats
+
+<div align="center">
+  <a href="https://codeforces.com/profile/adityasinghz">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=adityasinghz&v2&theme=dark" alt="Codeforces Stats" width="600"/>
+  </a>
+  <br/><br/>
+  <a href="https://codeforces.com/profile/adityasinghz">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=adityasinghz&v2&theme=dark" alt="Codeforces Rating Graph" width="600"/>
+  </a>
+</div>
+
+---
+
 ### 🎨 Creative Collection
 
 <details>
