@@ -102,22 +102,26 @@
 <h3 align="center">💻 Skills and Languages</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/learning/certificates/bcebde4090f25e03501b47185896ecb13c1836f30d4588dcb0ca21658dfa1f90?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/learning/certificates/338fcea9510065117e46487bd6e1197bf9920f276a9e4cb5b3ed7ae885939f2f?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /></a> &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/certificates/9609cc5f0425"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a> &nbsp;&nbsp;
-  <a href="https://www.udemy.com/certificate/UC-7be94a82-375f-42f9-a084-476a1017cf30/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /></a> &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/learning/certificates/bfd79d4fb61fecae3aff3f7ecb35f2eb7d1d38ea20f00e9bb4b3d49a88620e22?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></a>
+  <p>
+    <a href="https://www.linkedin.com/learning/certificates/bcebde4090f25e03501b47185896ecb13c1836f30d4588dcb0ca21658dfa1f90?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/learning/certificates/338fcea9510065117e46487bd6e1197bf9920f276a9e4cb5b3ed7ae885939f2f?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /></a>
+  </p>
+  <p>
+    <a href="https://www.hackerrank.com/certificates/9609cc5f0425"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>&nbsp;&nbsp;
+    <a href="https://www.udemy.com/certificate/UC-7be94a82-375f-42f9-a084-476a1017cf30/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /></a>&nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/c57ca0a8-9cb3-46cd-b9a7-54bad69f8204/public_url"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/learning/certificates/bfd79d4fb61fecae3aff3f7ecb35f2eb7d1d38ea20f00e9bb4b3d49a88620e22?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></a>
+  </p>
 </div>
 
 ---
@@ -151,26 +155,31 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3 align="left">✍️ Blog Posts</h3>
-      <p>
-        • <a href="https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2">Ratio Analysis</a><br>
-        • <a href="https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2">Multi-core Processor Architecture</a>
-      </p>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="100" />
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3 align="left">🔀 Recent Pull Requests</h3>
-      <p>
-        • 🎉 Merged PR <a href="https://github.com/NVIDIA/cuopt/pull/623">#623</a> in <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a><br>
-        • 🗣 Commented on <a href="https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779">#730</a> in <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a>
-      </p>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="100" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">✍️ Blog Posts</h3>
+
+<p align="center">
+  <a href="https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2">Ratio Analysis</a>
+  &nbsp;·&nbsp;
+  <a href="https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2">Multi-core Processor Architecture</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="120" />
+</p>
+
+<br>
+
+<h3 align="center">🔀 Recent Pull Requests</h3>
+
+<p align="center">
+  🎉 Merged <a href="https://github.com/NVIDIA/cuopt/pull/623">#623</a> · <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a>
+  <br><br>
+  🗣 Commented on <a href="https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779">#730</a> · <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="120" />
+</p>
 
 ---
 
