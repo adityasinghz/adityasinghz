@@ -21,21 +21,9 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/linkedin-original.svg" width="45px" height="auto" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@adityasinghz1"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/youtube.png" width="45px" height="auto" alt="YouTube" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/mr_adisinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/instagram.svg" width="60px" height="auto" alt="Instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/google-cloud-1.svg" width="50px" height="auto" alt="Google Cloud" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/adityasinghz"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/hackerrank.svg" width="55px" height="auto" alt="HackerRank" /></a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/adityasinghz/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/leetcode-logo.png" width="40px" height="auto" alt="LeetCode" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adityasinghz/details/certifications/"><img src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/icons8-certificate-48.png" width="45px" height="auto" alt="Certifications" /></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityasinghz/"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/linkedin-original.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@adityasinghz1"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/youtube.png" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mr_adisinghz/"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/instagram.svg" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cloudskillsboost.google/public_profiles/2ff25928-f3d7-440a-a90f-ddec4b61fbb8"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/google-cloud-1.svg" alt="Google Cloud" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/adityasinghz"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/hackerrank.svg" alt="HackerRank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/adityasinghz/"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/leetcode-logo.png" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adityasinghz/details/certifications/"><img align="absmiddle" height="42" width="42" src="https://github.com/adityasinghz/adityasinghz/blob/main/imgs/icons8-certificate-48.png" alt="Certifications" /></a>
+</p>
 
 <br>
 
