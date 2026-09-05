@@ -101,7 +101,7 @@
 
 ---
 
-### 💻 Skills and Languages
+<h3 align="center">💻 Skills and Languages</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/learning/certificates/bcebde4090f25e03501b47185896ecb13c1836f30d4588dcb0ca21658dfa1f90?u=2113185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /></a> &nbsp;&nbsp;
@@ -124,7 +124,7 @@
 
 ---
 
-### 🛠 Tools and Platform
+<h3 align="center">🛠 Tools and Platform</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
@@ -153,22 +153,22 @@
 
 ---
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>✍️ Blog Posts</h3>
-      <ul>
-        <li><a href="https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2">Ratio Analysis</a></li>
-        <li><a href="https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2">Multi-core Processor Architecture</a></li>
-      </ul>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="120" />
+    <td width="50%" valign="top" align="left">
+      <h3 align="left">✍️ Blog Posts</h3>
+      <p>
+        • <a href="https://medium.com/@adityasinghz/ratio-analysis-8c335dc3a6cc?source=rss-ae008365e35a------2">Ratio Analysis</a><br>
+        • <a href="https://medium.com/@adityasinghz/multi-core-processor-architecture-7580bc347042?source=rss-ae008365e35a------2">Multi-core Processor Architecture</a>
+      </p>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="100" />
     </td>
-    <td width="50%" valign="top">
-      <h3>🔀 Recent Pull Requests</h3>
-      <ul>
-        <li>🎉 Merged PR <a href="https://github.com/NVIDIA/cuopt/pull/623">#623</a> in <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a></li>
-        <li>🗣 Commented on <a href="https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779">#730</a> in <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a></li>
-      </ul>
+    <td width="50%" valign="top" align="left">
+      <h3 align="left">🔀 Recent Pull Requests</h3>
+      <p>
+        • 🎉 Merged PR <a href="https://github.com/NVIDIA/cuopt/pull/623">#623</a> in <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a><br>
+        • 🗣 Commented on <a href="https://github.com/NVIDIA/cuopt/issues/730#issuecomment-3727598779">#730</a> in <a href="https://github.com/NVIDIA/cuopt">NVIDIA/cuopt</a>
+      </p>
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="100" />
     </td>
   </tr>
