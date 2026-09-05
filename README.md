@@ -155,7 +155,7 @@
 
 ---
 
-<img align="right" width="120" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" />
+<img align="right" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" />
 
 ### ✍️ Blog Posts
 
@@ -167,7 +167,7 @@
 
 ---
 
-<img align="right" width="120" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
+<img align="right" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" />
 
 ### 🔀 Recent Pull Requests
 
