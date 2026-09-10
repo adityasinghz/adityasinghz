@@ -79,14 +79,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinghz&theme=tokyonight&hide_border=true&title_color=007ACC" alt="GitHub Streak" />
-</p>
-
----
-
 <h3 align="center">💻 Skills and Languages</h3>
 
 <div align="center">
@@ -163,6 +155,13 @@
 
 <br clear="all"/>
 
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinghz&theme=tokyonight&hide_border=true&title_color=007ACC" alt="GitHub Streak" />
+</p>
 
 ---
 
