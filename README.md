@@ -167,10 +167,10 @@
 
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="450"/>
   </a>
   <a href="https://leetcode.com/gracieabrams/">
-    <img src="https://leetcard.jacoblin.cool/gracieabrams?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/gracieabrams?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="450"/>
   </a>
 </div>
 
