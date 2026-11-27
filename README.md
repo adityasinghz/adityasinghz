@@ -167,7 +167,10 @@
 
 <div align="center">
   <a href="https://leetcode.com/adityasinghz/">
-    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="600"/>
+    <img src="https://leetcard.jacoblin.cool/adityasinghz?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="500"/>
+  </a>
+  <a href="https://leetcode.com/gracieabrams/">
+    <img src="https://leetcard.jacoblin.cool/gracieabrams?theme=dark&font=Baloo%20Chettan&ext=heatmap" alt="LeetCode Stats" width="500"/>
   </a>
 </div>
 
@@ -178,10 +181,6 @@
 <div align="center">
   <a href="https://codeforces.com/profile/adityasinghz">
     <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=adityasinghz&v2&theme=dark" alt="Codeforces Stats" width="600"/>
-  </a>
-  <br/><br/>
-  <a href="https://codeforces.com/profile/adityasinghz">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=adityasinghz&v2&theme=dark" alt="Codeforces Rating Graph" width="600"/>
   </a>
 </div>
 
