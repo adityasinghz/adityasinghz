@@ -14,7 +14,7 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Aditya%20Singh&fontSize=80&fontAlignY=35&descAlignY=55&descSize=20" alt="Aditya Singh Header" width="100%">
 </p> -->
-<div align="center">
+<div>
   <a href="https://github.com/adityasinghz">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;Open+Source+Contributor;Competitive+Programmer;FullStack+Developer" alt="Typing SVG" />
   </a>
